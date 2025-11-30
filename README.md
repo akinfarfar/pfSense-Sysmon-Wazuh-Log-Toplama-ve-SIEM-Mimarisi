@@ -7,10 +7,15 @@ Bu proje, farklı işletim sistemlerinden gelen logların pfSense ile yönetilen
 🎯 **Proje Amaçları**
 
 Gerçek bir SOC ortamında kullanılan log akışını simüle etmek
+
 Sysmon ile gelişmiş Windows event logları toplamak
+
 Ubuntu üzerinden Linux tabanlı logları Wazuh’a aktarmak
+
 pfSense ile ağ segmentasyonu ve güvenli trafik yönetimi yapmak
+
 SIEM üzerinde korelasyon, alerting ve temel tehdit avcılığı pratiği kazanmak
+
 
 | Bileşen                 | Açıklama                                  |
 | ----------------------- | ----------------------------------------- |
