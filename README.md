@@ -1,7 +1,7 @@
 # pfSense-Sysmon-Wazuh-Log-Toplama-ve-SIEM-Mimarisi
 Bu proje, farklı işletim sistemlerinden gelen logların pfSense ile yönetilen izole bir ağ üzerinde toplanarak Wazuh SIEM platformunda analiz edilmesini amaçlayan uçtan uca bir güvenlik mimarisidir.
 
-<img width="213" height="183" alt="image" src="https://github.com/user-attachments/assets/575b8634-24d0-497a-b668-bfb7e1dfe4df" />
+<img width="656" height="604" alt="image" src="https://github.com/user-attachments/assets/476902bd-7961-4e70-a85a-85ce2487c065" />
 
 
 🎯 **Proje Amaçları**
